@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Next.js Notion Starter Kit',
+  name: 'Hydraulic oilpressing machine factory in china',
   domain: 'oilpressing.opchn.com',
   author: 'Gavin +8619906365856',
 
